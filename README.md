@@ -1,4 +1,4 @@
-# essays
+# vote
 
-A collection of longer Wyncode Projects<br>
-- Voting Simulation
+A REPL-driven voting simulation program.
+
