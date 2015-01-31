@@ -157,7 +157,7 @@ end
 vs = VoterSimulation.new
 vs.menu
  
- 
+ #This is a hash from Alaa.
  
  
 # After every stump speech
