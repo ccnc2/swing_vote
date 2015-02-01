@@ -168,3 +168,5 @@ vs.menu
 # The campaign is complete when every voter has listened to at least one stump speech.
 # When the campaign is over, tally up the votes and determine the winner.
 # Politicians are also Voters, but they will always vote for themselves.
+
+#Carmen's Notes.
